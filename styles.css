@@ -4,8 +4,6 @@
     margin-top: 60px;
     margin-right: 70px;
     box-shadow: 3px 4px 16px red, 3px 4px 26px red, 3px 4px 46px red;
-    max-width: 100%;
-    height: auto;
 }
 
 body{
@@ -18,8 +16,6 @@ body{
     font-size: 60px;
     margin-top: 120px;
     height: fit-content;
-    max-width: 100%;
-    height: auto;
 }
 
 .span-1{
@@ -49,8 +45,6 @@ body{
     margin-top: 200px;
     margin-right: 100px;
     position: absolute;
-    max-width: 100%;
-    height: auto;
 }
 
 .nav-body{
@@ -65,8 +59,6 @@ body{
     margin: 0px;
     margin-left: -160px;
     margin-top: 30px;
-    max-width: 100%;
-    height: auto;
 }
 
 .nav-div{
